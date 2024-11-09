@@ -1,0 +1,1 @@
+Esse projeto nos ajuda a aprender sobre o Git e controle de versões.
